@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TDS006_Ta1.MiembroDeLaComunidad">
+    <Position X="6.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAYAAABACAAAgAAAAAAAAAAAAAAABgAAAAA=</HashCode>
+      <FileName>MiembroDeLaComunidad.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TDS006_Ta1.Empleado">
+    <Position X="5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAYAAAAECAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Empleado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TDS006_Ta1.Estudiante">
+    <Position X="6.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAYAAAAACAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Estudiante.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TDS006_Ta1.ExAlumno">
+    <Position X="8.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAYAAAAACAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>ExAlumno.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TDS006_Ta1.Docente">
+    <Position X="4" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAYAAAAACAAAAAAAAAAAAAAAAAAABAAAAEA=</HashCode>
+      <FileName>Docente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TDS006_Ta1.Administrativo">
+    <Position X="6" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAQAYAAAAACAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Administrativo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TDS006_Ta1.Administrador">
+    <Position X="3" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAYAAAIACAAAACAAQAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Administrador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TDS006_Ta1.Maestro">
+    <Position X="5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAYAAAAACAAAAAAAAAAAAAAQABAABAAAAAA=</HashCode>
+      <FileName>Maestro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
